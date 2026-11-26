@@ -1,5 +1,9 @@
 # 智能文件自动整理工具 (File Organizer)
 
+[![tests](https://github.com/babycat4475/file-organizer/actions/workflows/tests.yml/badge.svg)](https://github.com/babycat4475/file-organizer/actions/workflows/tests.yml)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
+[![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](requirements.txt)
+
 零第三方依赖的桌面文件自动分类工具：一键把杂乱的下载目录按类别归档。
 Python 标准库 + tkinter，`python app.py` 开箱即用。
 
